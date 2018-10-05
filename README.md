@@ -4,3 +4,4 @@
 
 ### Prerequisites
 
+[![IMAGE ALT TEXT HERE](https://github.com/JoshuaViado/Are-You-DayDreaming-Game/blob/master/Screenshots/Gameplay2.PNG)](https://www.youtube.com/watch?v=N6kwYU_jYrE)
