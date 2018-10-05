@@ -1,5 +1,8 @@
 # Are You DayDreaming? (Unity Game)
 ![alt text](https://github.com/JoshuaViado/Are-You-DayDreaming-Game/blob/master/Screenshots/HomePage.png "HomePage")
+
+This is a game (unfinished) I developed in my Graphics & Visualisation module during my university studies. This is a puzzle, parkour game that involves finding items and triggering certain objects to ''Unlock the Door'.
+
 **note: The game is playable and can be finish by the player. However, the game is unfinish and has a few noninteractive areas within the terrain.**
 ## Getting Started
 
